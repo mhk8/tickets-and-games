@@ -86,7 +86,6 @@ function Coinflip() {
         <FormControl fullWidth>
           <Input
             id="standard-adornment-amount"
-            className={classes.textField}
             value={bet}
             onChange={onChange}
           />
